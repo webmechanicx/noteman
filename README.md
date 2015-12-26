@@ -1,1 +1,1 @@
-# notemanjs - editable text editor on canvas
+# notemanjs - editable rich text editor on canvas
